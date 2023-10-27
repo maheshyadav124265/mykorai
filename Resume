@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+
+<head>
+    <title>Mahesh Yadav Resume</title>
+    <style>
+        div {
+            background-color: #d4d0cfe7;
+        }
+        table, th, td {
+      border: 0.5px solid black;
+    }
+    
+    th, td {
+      padding: 10px;
+    }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Mahesh Vijay Yadav</h1>
+        <p><b>Name:</b> Mahesh Vijay Yadav</p>
+        <p><b>Email:</b> <u>maheshyadav@gmail.com</u></p>
+        <p><b>Phone:</b> 8446566891</p>
+
+        <div class="section">
+            <h3>Career Objective</h3>
+            <p>
+                To work for an organization which would permit me to attain goals and objectives set for itself and 
+                through them my own, by giving me an opportunity to learn and grow simultaneously within the organization.
+            </p>
+        </div>
+
+        <div class="section">
+            <h2>Profile Summary</h2>
+            <ul>
+                <li>Fresher with highly motivated and leadership skills completed bachelors of engineering degree in Computer Engineering.</li>
+                <li>Expert in implementation of each step of the project.</li>
+                <li>Eager to learn new technologies and methodologies.</li>
+                <li>Always willing to innovate new things which can improve the existing technology.</li>
+            </ul>
+        </div>
+        <div class="section">
+            <h2>Personal Qualities: </h2>
+            <ul>
+                <li>Highly motivated and eager to learn new things. </li>
+                </li>Strong motivational and leadership skills. </li> 
+
+                <li>Ability to produce best result in pressure situation</li>
+                <li>Ability to work as individual as well as in group</li>
+                
+            </ul>
+        </div>
+        <div class="section">
+            <h2>Technical Skills: </h2>
+            <ul>
+                <li>Languages known :- C, C++, 
+                    .Net,Javasript</li> 
+                </li>Operating System :- Windows </li> 
+
+                <li>Database:-SQL</li>>
+                <li>MS Dynamics 365 
+                </li>
+                
+            </ul>
+        </div>
+            <div class="section">
+                <h2>Technical Skills: </h2>
+                <ul>
+                    <li>Languages known :- C, C++, 
+                        .Net,Javasript</li> 
+                    </li>Operating System :- Windows </li> 
+
+                    <li>Database:-SQL</li>>
+                    <li>MS Dynamics 365 
+                    </li>
+                    
+                </ul>
+            </div>
+            <table>
+                <caption>Professional/ Educational Qualifications: </caption>
+                <tr>
+                <th>Examination</th>
+                <th>Board</th>
+                <th>School/College Name</th>
+                <th>Year</th>
+                <th>Percentage/CGPA</th>
+                </tr>
+                <tr>
+                <td>SSC</td>
+                <td>SSC Board</td>
+                <td>Laxmanrao Apte Prashala</td>
+                <td>2014</td>
+                <td>80.20%</td>
+                </tr>
+                <tr>
+                    <td>Diploma(Computer Engineering)</td>
+                    <td>MSBTE Board</td>
+                    <td>MIT Polytechnic</td>
+                    <td>2017</td>
+                    <td>68.50%</td>
+                </tr>
+                <tr>
+                    <td>BE</td>
+                    <td>Pune University</td>
+                    <td>PVPIT</td>
+                    <td>2020</td>
+                    <td>7.26 CGPA</td>
+                </tr>
+                
+            </table>
+                
+            <div class="section">
+                    <h2>work Experience </h2>
+                    <ul>
+                        <li>Company Name : Pragmasys Consulting .</li> 
+                        <li>  Designation : Trainee.</li> 
+                        <li>Technology:MS Dynamics 365 CRM,.Net</li> 
+                        <li>Duration:From:25th August 2022 To:17th April 2023 
+                        </li> 
+                    
+                    </ul>
+            </div>    
+            <div class="section">
+                <h2>Personal Details</h2>
+                <ul>
+                    <li>Date of Birth : 23/08/1998 </li>
+                     <li>   Languages: English, Hindi, Marathi. </li>
+                      <li>  Hobbies : Playing Cricket. </li>
+                      <li>  Address : Sr.no.106 Lane no.4 Mhatoba Nagar Kothrud Pune-411038 </li> 
+                    <li>  Designation : Trainee.</li> 
+                    
+                <p>I do hereby declare that the above given statements are true and correct to the best of my knowledge. </p>
+                </ul>
+        </div>    
+
+        
+        </div>
+    </div>
+</body>
+</html>
